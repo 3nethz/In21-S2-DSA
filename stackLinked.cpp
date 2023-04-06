@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #include <stdio.h>
 #include <stdlib.h>
-#define MAX 20
+
 using namespace std;
 using namespace std::chrono;
 
